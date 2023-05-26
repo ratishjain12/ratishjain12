@@ -30,12 +30,12 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Object Oriented Programming in Dart: An Extensive Guide!!](https://devcon.hashnode.dev//object-oriented-programming-in-dart-an-extensive-guide)
 - [Simplifying State Management in Flutter with Provider](https://devcon.hashnode.dev//simplifying-state-management-in-flutter-with-provider)
 - [Hashing in Data Structures: Understanding the Key Concepts and Applications](https://devcon.hashnode.dev//hashing-in-data-structures-understanding-the-key-concepts-and-applications)
 - [A  Developer's Guide to Integrating
 ChatGPT and DALL-E  APIs in Your Flutter App 🚀](https://devcon.hashnode.dev//a-developers-guide-to-integrating-chatgpt-and-dall-e-apis-in-your-flutter-app)
 - [What is CRUD functionality? Learn All Crud Operations.](https://devcon.hashnode.dev//what-is-crud-functionality-learn-all-crud-operations)
-- [What is an API? How does it work and why it is very important for Businesses around the world](https://devcon.hashnode.dev//what-is-an-api-how-does-it-work-and-why-it-is-very-important-for-businesses-around-the-world)
 <!-- HASHNODE_BLOG:END -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratishjain12&show_icons=true&locale=en&layout=compact" alt="ratishjain12" /></p>
