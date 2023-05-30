@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ratishtwts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="ratishtwts" height="30" width="40" /></a>
+<a href="https://twitter.com/ratishtwts" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="ratishtwts" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ratish-jain-296276202/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="ratish jain" height="30" width="40" /></a>
 <a href="https://instagram.com/ratishjain10" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="ratishjain10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ratishjain6/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="https://leetcode.com/ratishjain6/" height="30" width="40" /></a>
