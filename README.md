@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratishjain12&label=Profile%20views&color=0e75b6&style=flat" alt="ratishjain12" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/jain_ratish" target="blank"><img src="https://img.shields.io/twitter/follow/jain_ratish?logo=twitter&style=for-the-badge" alt="jain_ratish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ratishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/ratishtwts?logo=twitter&style=for-the-badge" alt="ratishtwts" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
