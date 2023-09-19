@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ratishtwts" target="blank"><img src="https://img.shields.io/twitter/follow/ratishtwts?logo=twitter&style=for-the-badge" alt="ratishtwts" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web & App Development**
 
-- 💬 Ask me about **Flutter,MERN stack etc..**
+- 💬 Ask me about **Flutter,MERN stack, Nextjs etc..**
 
 - 📫 How to reach me **ratishjain6@gmail.com**
 
