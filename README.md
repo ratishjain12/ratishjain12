@@ -30,11 +30,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Filter map and reduce in Javascript](https://devcon.hashnode.dev//filter-map-and-reduce-in-javascript)
 - [Object Oriented Programming in Javascript](https://devcon.hashnode.dev//object-oriented-programming-in-javascript)
 - [JavaScript Prototypes and Prototypal Inheritance](https://devcon.hashnode.dev//javascript-prototypes-and-prototypal-inheritance)
 - [Streamline Form Validation with React Hook Form and implement Email Service using EmailJS](https://devcon.hashnode.dev//streamline-form-validation-with-react-hook-form-and-implement-email-service-using-emailjs)
 - [Object Oriented Programming in Dart: An Extensive Guide!!](https://devcon.hashnode.dev//object-oriented-programming-in-dart-an-extensive-guide)
-- [Simplifying State Management in Flutter with Provider](https://devcon.hashnode.dev//simplifying-state-management-in-flutter-with-provider)
 <!-- HASHNODE_BLOG:END -->
 ## Badges
 [![An image of @ratishjain12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ratishjain12)](https://holopin.io/@ratishjain12)
