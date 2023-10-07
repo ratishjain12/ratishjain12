@@ -37,7 +37,9 @@
 - [Object Oriented Programming in Dart: An Extensive Guide!!](https://devcon.hashnode.dev//object-oriented-programming-in-dart-an-extensive-guide)
 <!-- HASHNODE_BLOG:END -->
 ## Badges
+
 [![An image of @ratishjain12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ratishjain12)](https://holopin.io/@ratishjain12)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratishjain12&show_icons=true&locale=en&layout=compact" alt="ratishjain12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratishjain12&show_icons=true&locale=en" alt="ratishjain12" /></p>
