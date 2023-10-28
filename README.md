@@ -30,11 +30,11 @@
 
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [Mastering React Testing Library and Jest: A Comprehensive Guide](https://devcon.hashnode.dev//mastering-react-testing-library-and-jest-a-comprehensive-guide)
 - [Server Side Rendering vs Client Side Rendering](https://devcon.hashnode.dev//server-side-rendering-vs-client-side-rendering)
 - [Filter map and reduce in Javascript](https://devcon.hashnode.dev//filter-map-and-reduce-in-javascript)
 - [Object Oriented Programming in Javascript](https://devcon.hashnode.dev//object-oriented-programming-in-javascript)
 - [JavaScript Prototypes and Prototypal Inheritance](https://devcon.hashnode.dev//javascript-prototypes-and-prototypal-inheritance)
-- [Streamline Form Validation with React Hook Form and implement Email Service using EmailJS](https://devcon.hashnode.dev//streamline-form-validation-with-react-hook-form-and-implement-email-service-using-emailjs)
 <!-- HASHNODE_BLOG:END -->
 ## Badges
 
