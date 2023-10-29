@@ -40,6 +40,8 @@
 
 [![An image of @ratishjain12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ratishjain12)](https://holopin.io/@ratishjain12)
 
+![Ratish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratishjain12&show_icons=true&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratishjain12&show_icons=true&locale=en&layout=compact" alt="ratishjain12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratishjain12&show_icons=true&locale=en" alt="ratishjain12" /></p>
