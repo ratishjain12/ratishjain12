@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/ratishtwts" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13963&format=png" alt="ratishtwts" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ratish-jain/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" alt="ratish jain" height="30" width="40" /></a>
-<a href="https://instagram.com/ratish_45" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="ratishjain10" height="30" width="40" /></a>
+<a href="https://instagram.com/ratisshh" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" alt="ratishjain10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ratishjain6/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=9L16NypUzu38&format=png" alt="https://leetcode.com/ratishjain6/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ratishjain6" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=AbQBhN9v62Ob&format=png" alt="https://auth.geeksforgeeks.org/user/ratishjain6" height="30" width="40" /></a>
 </p>
