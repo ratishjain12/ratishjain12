@@ -1,4 +1,5 @@
-![twitter-banner](https://github.com/ratishjain12/ratishjain12/assets/43003421/36e2a6eb-13e4-4799-acba-e0327073c3ae)
+![coding](https://github.com/ratishjain12/ratishjain12/assets/43003421/5a0c000c-6239-4841-ab85-6fe75163c765)
+
 <h1 align="center">Hi 👋, I'm Ratish Jain</h1>
 <h3 align="center">A passionate App & Web Developer from India</h3>
 
