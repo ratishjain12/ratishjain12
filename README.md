@@ -1,4 +1,4 @@
-![coding](https://github.com/ratishjain12/ratishjain12/assets/43003421/5a0c000c-6239-4841-ab85-6fe75163c765)
+![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/4acbd5de-41a8-4734-8e57-a36210139fc5)
 
 <h1 align="center">Hi 👋, I'm Ratish Jain</h1>
 <h3 align="center">A passionate App & Web Developer from India</h3>
