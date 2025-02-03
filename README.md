@@ -1,7 +1,7 @@
 ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/4acbd5de-41a8-4734-8e57-a36210139fc5)
 
 <h1 align="center">Hi 👋, I'm Ratish Jain</h1>
-<h3 align="center">A passionate App & Web Developer from India</h3>
+<h3 align="center">Building tech solutions using AI | Generative AI | LLMs</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratishjain12&label=Profile%20views&color=0e75b6&style=flat" alt="ratishjain12" /> </p>
